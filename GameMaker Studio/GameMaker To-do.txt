@@ -1,0 +1,71 @@
+GameMaker Studio Tutorials {
+  Beginner {
+    [x] My_First_Game
+    [ ] GM Basics (12 parts)
+    [ ] Audio (2 parts)
+    [ ] Basic_Isometric_Tutorial
+    [ ] Coding_BreakOut
+    [ ] Particles
+    [ ] Physics (3 parts)
+    [ ] Scrolling_Shooter (2 parts)
+    [ ] Application_Surface_Overview
+    [ ] 1945_vs_Spy_Chase
+    [ ] Angry_Cats_vs_Angry_Castles
+    [ ] Veg_Ninja_vs_Duck Shoot
+  }
+  Intermediate {
+    [ ] HTML5_Scaling
+    [ ] Saving_and_Loading
+    [ ] Scripting
+    [ ] Skeletal_Animation_with_Spine
+    [ ] Surfaces
+    [ ] Application_Surface_Scaling
+    [ ] URL_Encode_and_Twitter
+    [ ] Vector_Sprites
+  }
+  Advanced {
+    [ ] Optimising_the_Draw_Pipeline
+    [ ] Physics
+    [ ] Surfaces
+    [ ] Application_Surface_Special_Effects
+  }
+}
+
+From Unity To-do {
+  [x] Developer Advice
+  [ ] Production
+}
+
+Shaun Spalding {
+  [ ] Make your first game!
+  [ ] Making a Platformer
+  [ ] GameMaker Tutorials Playlist
+}
+
+GameMakerTutorials.com {
+  [ ] Articles
+  [ ] Beginner
+  [ ] General
+  [ ] Platformer
+}
+
+HeartBeast {
+  [ ] Make an RPG
+  [ ] Particles
+  [ ] Flappy Bird
+  [ ] Lets Pixel
+  [ ] Random Level Generation
+  [ ] GM Platform Tutorials
+  [ ] RTS Tutorials
+}
+
+YoYo Games Blog {
+  [ ] Optimizing Your Games in GMS
+  [ ] Scaling for Devices
+}
+
+Other {
+  [ ] Top Down Zombie Shooter
+  [ ] In-game Resolution Control
+  [ ] /r/gamemakertutorials
+}
